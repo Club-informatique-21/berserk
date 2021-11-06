@@ -129,4 +129,4 @@ _:warning: Found `accept_challenge` and `decline_challenge` in **Bots** instead 
 - [x] Masters database
 - [x] Lichess games
 - [x] Player games
-- [ ] OTB master game
+- [ ] OTB master game _:no_entry: Do not work_
