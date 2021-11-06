@@ -40,7 +40,7 @@ setup(
     setup_requires=setup_requirements,
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/rhgrant10/berserk',
-    version='0.10.0',
+    url='https://github.com/Club-informatique-21/berserk',
+    version='1.0.0',
     zip_safe=True,
 )
